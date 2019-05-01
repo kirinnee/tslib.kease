@@ -1,6 +1,10 @@
 # kEase
 
-https://github.com/kirinnee/tslib.kease.git
+Easing Interface as a wrapper around GSAP to be user in a more modular model
+
+Source: [GitLab](https://gitlab.com/node-packages-kirin/kease)
+
+Mirror: [GitHub](https://github.com/kirinnee/tslib.kease)
 
 # Getting Started
 
